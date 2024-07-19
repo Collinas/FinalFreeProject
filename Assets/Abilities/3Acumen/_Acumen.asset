@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 55d0d4883019848608b2ac45d56222af, type: 3}
+  m_Name: _Acumen
+  m_EditorClassIdentifier: 
+  abilityName: Acumen
+  points: 1
+  proficiencies:
+  - {fileID: 11400000, guid: 7dd47980f7c0b478a903895b3a22ad6e, type: 2}
+  - {fileID: 11400000, guid: 31ed33a584a634ea7973c4bf3aa90303, type: 2}
+  - {fileID: 11400000, guid: 1d6127b25f6f94a77b2185e4f7d7800f, type: 2}
+  - {fileID: 11400000, guid: 487069c19bfcc4f2f82ba12db5124c89, type: 2}
+  - {fileID: 11400000, guid: 0fe14a5f091834a5a960022cc0c18b9f, type: 2}

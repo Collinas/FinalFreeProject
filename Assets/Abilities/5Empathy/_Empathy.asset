@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 55d0d4883019848608b2ac45d56222af, type: 3}
+  m_Name: _Empathy
+  m_EditorClassIdentifier: 
+  abilityName: Empathy
+  points: 0
+  proficiencies:
+  - {fileID: 11400000, guid: 8bb5f64f28179401cbf6be0b0a0dfef1, type: 2}
+  - {fileID: 11400000, guid: c5119aaff3aae456a9a33bcbeacbaaea, type: 2}
+  - {fileID: 11400000, guid: 291923b3dfb344f9aa1bdb940cc2aabf, type: 2}
+  - {fileID: 11400000, guid: 6336028c7b77c4710bf293c0f6dc1415, type: 2}
+  - {fileID: 11400000, guid: 6f644f6b964eb47a8abb7fe56107646c, type: 2}

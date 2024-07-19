@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 55d0d4883019848608b2ac45d56222af, type: 3}
+  m_Name: _Vitality
+  m_EditorClassIdentifier: 
+  abilityName: Vitality
+  points: 1
+  proficiencies:
+  - {fileID: 11400000, guid: 3a22e48edf7db48f7a9fb8eddbd62970, type: 2}
+  - {fileID: 11400000, guid: 47cf91d1d23e04f639fba3e30d9cf28f, type: 2}
+  - {fileID: 11400000, guid: c4cd4520fe2ce4cfcb6695c23f549a80, type: 2}
+  - {fileID: 11400000, guid: 49c636abb2b7d47f7a249ce93bcdb168, type: 2}
+  - {fileID: 11400000, guid: b2a2b1f1f71b045199169c16b8a765e8, type: 2}

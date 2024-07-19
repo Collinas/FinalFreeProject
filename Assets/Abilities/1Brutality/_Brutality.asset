@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 55d0d4883019848608b2ac45d56222af, type: 3}
+  m_Name: _Brutality
+  m_EditorClassIdentifier: 
+  abilityName: Brutality
+  points: 0
+  proficiencies:
+  - {fileID: 11400000, guid: 5ec2dc1e57df94acba204ba6d9641083, type: 2}
+  - {fileID: 11400000, guid: ebbfb0a57a3994849bbbe5fd9b8b0289, type: 2}
+  - {fileID: 11400000, guid: 3d3306a5937d44d8c885a2fa5518e476, type: 2}
+  - {fileID: 11400000, guid: 43c3f1cea850b47ae9b7d86220ab9e47, type: 2}
+  - {fileID: 11400000, guid: dc55eedb14f6a41eaafcada702658085, type: 2}
